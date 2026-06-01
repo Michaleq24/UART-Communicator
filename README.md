@@ -7,3 +7,5 @@ Program wymaga instalacji biblioteki pyserial dla języka Python.
 | Michał Figołuszka | [github.com/Michaleq24](https://github.com/Michaleq24) |
 | Jakub Bodzioch | [github.com/JakubBodzioch](https://github.com/JakubBodzioch) |
 | Łukasz Wolf | [github.com/LukaszWolf](https://github.com/LukaszWolf) |
+| Jakub Kotulski | [github.com/JakubKotulski](https://github.com/JakubKotulski) |
+| Jan Piechota | [github.com/janpiechota](https://github.com/janpiechota) |
